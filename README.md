@@ -1,16 +1,12 @@
-# bet_blocker_app
+## 🤝
 
-A new Flutter project.
+O **BetBlocker App** é uma extensão para desktop do BetBlocker, desenvolvida como uma contribuição para a **API Brasil**. Gostaríamos de expressar nossa profunda gratidão ao **Jonathan**, que tomou a nobre iniciativa de abordar este problema que já é reconhecido como uma questão de **saúde pública** no Brasil.
 
-## Getting Started
+### 🙌 Como Contribuir
 
-This project is a starting point for a Flutter application.
+Toda contribuição é bem-vinda! Se você deseja ajudar a melhorar o BetBlocker App, considere as seguintes formas de participação:
 
-A few resources to get you started if this is your first Flutter project:
+- **Reportar Problemas:** Encontre um bug ou tenha uma sugestão? Abra uma [issue](https://github.com/seu-usuario/betblocker/issues) no GitHub.
+- **Enviar Pull Requests:** Faça um fork do repositório, implemente suas melhorias ou novas funcionalidades e envie um pull request para revisão.
+- **Compartilhar o Projeto:** Ajude a divulgar o BetBlocker App compartilhando com amigos, familiares ou em suas redes sociais.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
