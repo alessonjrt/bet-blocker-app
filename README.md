@@ -1,6 +1,6 @@
 ## 🤝
 
-O **BetBlocker App** é uma extensão para desktop do BetBlocker, desenvolvida como uma contribuição para a **API Brasil**. Gostaríamos de expressar nossa profunda gratidão ao **Jonathan**, que tomou a nobre iniciativa de abordar este problema que já é reconhecido como uma questão de **saúde pública** no Brasil.
+O **BetBlocker App** é uma extensão mobile do BetBlocker, desenvolvida como uma contribuição para a **API Brasil**. Gostaríamos de expressar nossa profunda gratidão ao **Jonathan**, que tomou a nobre iniciativa de abordar este problema que já é reconhecido como uma questão de **saúde pública** no Brasil.
 
 ### 🙌 Como Contribuir
 
